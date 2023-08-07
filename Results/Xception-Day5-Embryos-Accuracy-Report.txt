@@ -1,0 +1,11 @@
+Xception Model Test Accuracy Report		precision	recall	f1-score	# of unseen images
+					
+	Class 1	0.96	0.98	0.97	118
+	Class 2	0.99	0.93	0.96	103
+	Class 3	0.98	1	0.99	118
+	Class 4	0.97	1	0.98	92
+	Class 5	1	0.98	0.99	179
+					
+accuracy				0.98	610
+macro avg		0.98	0.98	0.98	610
+weighted avg		0.98	0.98	0.98	610
