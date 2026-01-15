@@ -90,6 +90,6 @@ Special thanks to embryologists, clinicians, and researchers who provided domain
 
 ## 📬 **Contact**
 
-For research collaboration, questions, or feedback, please reach out through this repository.
+For research collaboration, questions, or feedback, please reach out through this repository or ashritag@umich.edu
 
 ---
