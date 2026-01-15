@@ -88,4 +88,4 @@ Special thanks to embryologists, clinicians, and researchers who provided domain
 
 📬 Contact
 
-For research collaboration, questions, or feedback:
+For research collaboration, questions, or feedback: ashritag@umich.edu or +1(202) 329-6478
